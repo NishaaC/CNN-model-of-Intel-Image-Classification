@@ -1,0 +1,1 @@
+# CNN-model-of-Intel-Image-Classification
